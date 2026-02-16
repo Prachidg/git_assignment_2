@@ -8,17 +8,3 @@ Course:BTech Computer Science
 
 Semester:4
 
-COLLABRATOR:
-
-Name:Arshpreet Walia
-
-Roll number:2024BCS-011
-
-Course:BTech Computer Science
-
-Semester:4
-
-
-
-
-
