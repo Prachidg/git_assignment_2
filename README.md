@@ -4,7 +4,7 @@ Name:Prachi Deepak Guddemane
 
 Roll number:2024BCS-051
 
-Course:BCS
+Course:BTech Computer Science
 
 Semester:4
 
