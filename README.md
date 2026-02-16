@@ -8,17 +8,3 @@ Course:BCS
 
 Semester:4
 
-COLLABRATOR:
-
-Name:Arshpreet Walia
-
-Roll number:2024BCS-011
-
-Course:BCS
-
-Semester:4
-
-
-
-
-
